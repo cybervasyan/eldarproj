@@ -1,4 +1,4 @@
-<template>
+npm<template>
   <v-app-bar color="#fff" class="header">
     <v-app-bar-title class="header__navigation">
       <v-btn class="header__btn">

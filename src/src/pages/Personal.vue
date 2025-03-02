@@ -21,7 +21,7 @@ import VProfile from "@/components/VProfile.vue";
 import VMarks from "@/components/VMarks.vue";
 import VUniversities from "@/components/VUniversities.vue";
 
-let block = ref("VProfile");
+const block = ref("VProfile");
 const activeBlock = computed(
   () =>
     ({
